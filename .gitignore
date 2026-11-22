@@ -28,3 +28,9 @@ Thumbs.db
 
 # Testing
 coverage/
+
+# Media and large assets
+*.mp4
+*.mov
+*.avi
+
